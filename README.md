@@ -89,10 +89,10 @@ node createDatabase.js
 - Go to any Browser and search localhost:3000
 
 ## ✨`Deployment`
-Link to visit Youtube Subscriber video:
 
+**Link to visit Youtube Subscriber video** : https://www.youtube.com/watch?v=omzyCfkHDdg&t=1s
 
-**Web Deployed Link**: https://get-youtube-subscribers-sjg7.onrender.com/
+**Web Deployed Link** : https://get-youtube-subscribers-sjg7.onrender.com/
 
 **API Schema Documentation** : https://documenter.getpostman.com/view/22294077/2s9YXpVyoR
 
